@@ -1,4 +1,4 @@
-# PeevedPenguins.spritebuilder
+# Peeved Penguins
 Peeved Penguins IOS Game
 
 
